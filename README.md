@@ -10,6 +10,8 @@ Tux was in his igloo, when he noticed a note. It was the news for the day, and i
 
 Why does everything look different? Well, this happens in a different universe. Also in this universe, Tux never had to save Penny, so he doesn't know about Nolok until the story begins.
 
+This story is inspired by the Forest World Adventure Pack story, and the graphics for the forest world are likely gonna be inspired by Tux Junior or Forest World Adventure Pack, although Icy Island's replacement, Snow Land, will be more like the original DifferentTux, likely with the purple ice.
+
 ## Downloads
 Check the GitHub Actions thing.
 
